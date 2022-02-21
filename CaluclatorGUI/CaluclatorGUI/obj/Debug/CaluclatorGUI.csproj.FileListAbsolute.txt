@@ -1,0 +1,17 @@
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\CaluclatorGUI\CaluclatorGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\CaluclatorGUI\CaluclatorGUI\bin\Debug\CaluclatorGUI.exe
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\CaluclatorGUI\CaluclatorGUI\bin\Debug\CaluclatorGUI.pdb
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.exe
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.pdb
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.Calculator.resources
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\bin\Debug\CaluclatorGUI.exe.config
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.exe
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.pdb
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\bin\Debug\CaluclatorGUI.exe
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\bin\Debug\CaluclatorGUI.pdb
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.Calculator.resources
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.Properties.Resources.resources
+C:\Users\Muhammad Idrees\OneDrive\Desktop\CaluclatorGUI\CaluclatorGUI\obj\Debug\CaluclatorGUI.csproj.GenerateResource.Cache
